@@ -1,5 +1,7 @@
 
 
+<img width="1323" height="854" alt="image" src="https://github.com/user-attachments/assets/292af0ef-8051-479b-88aa-a74444faf11a" />
+
 
 
 
@@ -12,12 +14,17 @@
 
 # Processo de Analise
 
-analise bivariada - duas variáveis (salario anual com gasto com alimentos) - utilizando grafico de dispersão
+Analise bivariada - duas variáveis (salario anual com gasto com alimentos) - utilizando grafico de dispersão
 
 <img width="1299" height="733" alt="image" src="https://github.com/user-attachments/assets/a003dd5f-54f6-4a8c-8529-b29e690e266d" />
 
-analise bivariada - relação entre gasto e filhos
+Analise bivariada - relação entre gasto e filhos
 
+<img width="543" height="347" alt="image" src="https://github.com/user-attachments/assets/6e27f201-21ba-456d-91de-547b5fb60750" />
+
+Analise de relação de tres variáveis diferentes(Total de gasto explicar por - escolaridade e estado civil)
+
+<img width="610" height="366" alt="image" src="https://github.com/user-attachments/assets/f62cfe21-e256-46e1-9357-8ca687a0b27c" />
 
 
 
