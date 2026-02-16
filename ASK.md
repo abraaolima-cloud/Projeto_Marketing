@@ -10,5 +10,7 @@ Qual a média salarial desses clientes?
 
 Em que meio os clientes compraram mais?
 
+Qual o Grau de escolaridade dos compradores?
 
+Qual o estado civil de quem mais compra?
 
