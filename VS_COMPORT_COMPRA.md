@@ -10,12 +10,21 @@
 
 
 
-# processo de limpeza
+# Processo de Analise
 
 analise bivariada - duas variáveis (salario anual com gasto com alimentos) - utilizando grafico de dispersão
 
-
 <img width="1299" height="733" alt="image" src="https://github.com/user-attachments/assets/a003dd5f-54f6-4a8c-8529-b29e690e266d" />
+
+analise bivariada - relação entre gasto e filhos
+
+
+
+
+
+
+
+# Processo de Limpeza
 
 Identifiquei um outlier
 
